@@ -1,7 +1,7 @@
 ---
 title: Why we built a company before building a product and why it worked
 date: 2017-04-30
-hero: "/images/Screenshot_2019-09-02-23-00-48.png"
+hero: "/images/uploads/vagabond.png"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
