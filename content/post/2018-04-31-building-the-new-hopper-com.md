@@ -1,14 +1,14 @@
 ---
 title: Building the new Hopper.com in 2018
 date: 2018-04-31
-hero: /images/hero-2.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+hero: "/images/uploads/vagabond.png"
+excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
+  apps in the U.S, along with Uber, Lyft.
 timeToRead: 4
 authors:
-  - Dennis Brotzky
+- Dennis Brotzky
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
